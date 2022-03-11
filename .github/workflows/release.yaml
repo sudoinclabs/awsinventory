@@ -1,10 +1,6 @@
 # .github/workflows/release.yaml
 
 on:
-  push:
-    branches:
-      - '*'
-      - '*/**'
   release:
     types: [created]
 
