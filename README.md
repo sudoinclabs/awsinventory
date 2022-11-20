@@ -58,3 +58,7 @@ make test
 # This target should be run before committing
 make test-full
 ```
+
+### TODO
+Add testing for roles and policies
+Update tests for workspaces and cloudformation stacks
